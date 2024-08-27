@@ -1,0 +1,2 @@
+# live-core
+Live application
